@@ -2,7 +2,7 @@
 
 [![Difficulty](https://img.shields.io/badge/difficulty-متوسط-orange)]()
 [![Languages](https://img.shields.io/badge/languages-C%23-informational)]()
-[![Deadline](https://img.shields.io/badge/deadline-2025--12--02-critical)]()
+[![Deadline](https://img.shields.io/badge/deadline-1404--08--11-critical)]()
 
 > هدف: طراحی یک مکانیزم کش مقاوم برای سرویس داشبورد تا از «هجوم همزمان» درخواست‌ها هنگام انقضای داده جلوگیری شود.
 
