@@ -71,7 +71,7 @@
 ### ۱) کلون پروژه
 
 ```bash
-git clone https://github.com/dotin-challenge/dashboard-cache.git
+git clone https://github.com/dotin-challenge/dashboard-service-optimization.git
 cd dashboard-cache
 ```
 
