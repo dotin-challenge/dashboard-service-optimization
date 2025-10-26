@@ -2,7 +2,7 @@
 
 [![Difficulty](https://img.shields.io/badge/difficulty-medium-orange)]()
 [![Languages](https://img.shields.io/badge/languages-C%23-informational)]()
-[![Deadline](https://img.shields.io/badge/deadline-2025--12--02-critical)]()
+[![Deadline](https://img.shields.io/badge/deadline-2025--11--02-critical)]()
 
 > Design a resilient caching strategy for a high-demand dashboard service to prevent concurrent heavy loads when cached data expires.
 
