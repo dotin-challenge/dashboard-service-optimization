@@ -149,8 +149,8 @@ ab -n 100 -c 10 http://localhost:5000/dashboard
 
 ## Timeline
 
-* Start: `2025-11-26`
-* Deadline: `2025-12-02`
+* Start: `2025-10-26`
+* Deadline: `2025-11-02`
 
 ---
 
