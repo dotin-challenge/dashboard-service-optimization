@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0eq4BOvx6nI=",
+  "success": true,
+  "projectFilePath": "D:\\Project\\dotin\\Challanges\\dashboard-cache\\dashboard-cache\\dashboard-cache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shahram\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\shahram\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
