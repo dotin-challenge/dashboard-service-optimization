@@ -18,8 +18,8 @@ public class DashboardRepo(IMemoryCache cache)
             key,
             async e =>
             {
-                e.SlidingExpiration = TimeSpan.FromSeconds(10);
-                e.AbsoluteExpirationRelativeToNow = TimeSpan.FromSeconds(30);
+                e.SlidingExpiration = TimeSpan.FromMinutes(30);
+                e.AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(60);
                 var i = await DashboardItem.CreateAsync(key, cancellationToken);
                 return i;
             }
