@@ -1,6 +1,0 @@
-@dashboard_cache_HostAddress = http://localhost:5172
-
-GET {{dashboard_cache_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
