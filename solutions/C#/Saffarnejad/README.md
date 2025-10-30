@@ -48,8 +48,8 @@
 📁 dashboard-service-optimization
 └── 📁 C#
     └── 📁 Saffarnejad
-            ├── Program.cs
-            └── README.md
+        ├── Program.cs
+        └── README.md
 ```
 
 ---
@@ -118,7 +118,6 @@ Test 2: Subsequent request (cache hit)
 
 ---
 
-## 📜 لایسنس
+## 📜
 
-MIT License © 2025  
-ساخته شده با ❤️ توسط [Amin Saffarnejad](https://github.com/Saffarnejad)
+Develop by [Amin Saffarnejad](https://github.com/Saffarnejad) © 2025  
