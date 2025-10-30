@@ -1,0 +1,6 @@
+@DashboardCache_HostAddress = http://localhost:5216
+
+GET {{DashboardCache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
