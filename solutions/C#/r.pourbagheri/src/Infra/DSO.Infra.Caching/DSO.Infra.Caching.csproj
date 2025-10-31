@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="9.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\DSO.Core.ApplicationServices\DSO.Core.ApplicationServices.csproj" />
+    <ProjectReference Include="..\..\Core\DSO.Core.Domain\DSO.Core.Domain.csproj" />
+    <ProjectReference Include="..\src\Core\DSO.Core.ApplicationServices\DSO.Core.ApplicationServices.csproj" />
+    <ProjectReference Include="..\src\Core\DSO.Core.Domain\DSO.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

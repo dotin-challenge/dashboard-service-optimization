@@ -1,0 +1,11 @@
+@DSO.EndPoints.WebApi_HostAddress = http://localhost:5185
+
+### ê—› ‰ œ«‘»Ê—œ
+GET {{DSO.EndPoints.WebApi_HostAddress}}/dashboard/
+Accept: application/json
+
+###
+
+### Å«ò ò—œ‰ ò‘ œ«‘»Ê—œ
+POST {{DSO.EndPoints.WebApi_HostAddress}}/dashboard/invalidate
+Content-Type: application/json
