@@ -121,6 +121,3 @@ Program.cs sections:
 
 - [Memory Caching](https://learn.microsoft.com/en-us/aspnet/core/performance/caching/memory)
 - [Rate Limiting](https://learn.microsoft.com/en-us/aspnet/core/performance/rate-limit)
-
-
-You can copy this content directly into a `.md` file on GitHub. All standard Markdown tags are properly formatted.
