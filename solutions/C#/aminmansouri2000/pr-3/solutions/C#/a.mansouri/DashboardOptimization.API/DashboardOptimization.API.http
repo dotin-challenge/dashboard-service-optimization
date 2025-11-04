@@ -1,6 +1,0 @@
-@DashboardOptimization.API_HostAddress = http://localhost:5173
-
-GET {{DashboardOptimization.API_HostAddress}}/product/
-Accept: application/json
-
-###
