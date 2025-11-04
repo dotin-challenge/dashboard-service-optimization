@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Core", "01-Core", "{3EF0F4AB-51E8-40E5-8042-F107CB9DDEED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Infrastructure", "02-Infrastructure", "{D26D59E5-E8B5-4A23-9D51-82FF2F7BAC10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-EndPoints", "03-EndPoints", "{3D0E1959-EDF8-470F-A646-01DCCD007BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardOptimization.Core.ApplicationService", "DashboardOptimization.Core.ApplicationService\DashboardOptimization.Core.ApplicationService.csproj", "{ACFBB119-DD45-4422-96FA-1B62694D977D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardOptimization.Infra.Cache", "DashboardOptimization.Infra.Cache\DashboardOptimization.Infra.Cache.csproj", "{3E189F47-941A-4685-BBF0-6859898273A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardOptimization.API", "DashboardOptimization.API\DashboardOptimization.API.csproj", "{B5DAC98D-C75C-4B42-85ED-EB95849DF855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACFBB119-DD45-4422-96FA-1B62694D977D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFBB119-DD45-4422-96FA-1B62694D977D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFBB119-DD45-4422-96FA-1B62694D977D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFBB119-DD45-4422-96FA-1B62694D977D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E189F47-941A-4685-BBF0-6859898273A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E189F47-941A-4685-BBF0-6859898273A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E189F47-941A-4685-BBF0-6859898273A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E189F47-941A-4685-BBF0-6859898273A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5DAC98D-C75C-4B42-85ED-EB95849DF855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DAC98D-C75C-4B42-85ED-EB95849DF855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DAC98D-C75C-4B42-85ED-EB95849DF855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DAC98D-C75C-4B42-85ED-EB95849DF855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ACFBB119-DD45-4422-96FA-1B62694D977D} = {3EF0F4AB-51E8-40E5-8042-F107CB9DDEED}
+		{3E189F47-941A-4685-BBF0-6859898273A2} = {D26D59E5-E8B5-4A23-9D51-82FF2F7BAC10}
+		{B5DAC98D-C75C-4B42-85ED-EB95849DF855} = {3D0E1959-EDF8-470F-A646-01DCCD007BA3}
+	EndGlobalSection
+EndGlobal
