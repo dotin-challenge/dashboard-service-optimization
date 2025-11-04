@@ -378,3 +378,7 @@ FodyWeavers.xsd
 
 # Local tooling cache
 .tools/
+
+# Local-only folders (do not commit)
+scripts/
+docs/
