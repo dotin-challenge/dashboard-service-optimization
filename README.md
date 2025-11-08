@@ -4,6 +4,8 @@
 [![Languages](https://img.shields.io/badge/languages-C%23-informational)]()
 [![Deadline](https://img.shields.io/badge/deadline-2025--11--02-critical)]()
 
+> Results summary (2025-11-08): Top PRs — 1) #13 (82.5, HamedMortezaee), 2) #1 (82.25, arash-mosavi), 3) #2 (80.0, ShahramAfshar). Full English report: [result.md](result.md). Full Persian report: [result.fa.md](result.fa.md).
+
 > Design a resilient caching strategy for a high-demand dashboard service to prevent concurrent heavy loads when cached data expires.
 
 ---
